@@ -49,6 +49,8 @@ Example structure of **api_keys.json**:
 - If you haven't generated an API key yet, follow the instructions to generate one.
 - Copy the generated API key and keep it securely.
 
+![api_key_virustotal](api_key_copy.png)
+
 5. **Add your API key to api_keys.json**:
 - Open the api_keys.json file in your project.
 - Replace the empty value for "virustotal" with your VirusTotal API key, for example:
