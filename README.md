@@ -10,8 +10,8 @@ This Python script analyzes the reputation of IP addresses using VirusTotal and 
 # Installation
 1. **Clone the repository
 ```sh
-git clone https://github.com/your_username/your_project.git
-cd your_project
+git clone https://github.com/MalwareEZ/analyrun/tree/main
+cd analyrun
 ```
 
 2. Install dependencies
