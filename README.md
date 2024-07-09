@@ -8,13 +8,13 @@ This Python script analyzes the reputation of IP addresses using VirusTotal and 
 - **Results saving**: Option to save detected malicious IP addresses to a file.
 
 # Installation
-1. **Clone the repository
+1. **Clone the repository**
 ```sh
 git clone https://github.com/MalwareEZ/analyrun
 cd analyrun
 ```
 
-2. Install dependencies
+2. **Install dependencies**
 ```sh
 pip install -r requirements.txt
 ```
