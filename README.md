@@ -52,7 +52,7 @@ Example structure of **api_keys.json**:
 ![api_key_virustotal](api_key_copy.png)
 
 5. **Add your API key to api_keys.json**:
-- Open the api_keys.json file in your project.
+- Open the api_keys.json file.
 - Replace the empty value for "virustotal" with your VirusTotal API key, for example:
 
 ```json
@@ -77,7 +77,7 @@ Example structure of **api_keys.json**:
 ![api_key_virustotal](api_key_abuseipdb.png)
 
 4. **Add your API key to api_keys.json**:
-- Open the api_keys.json file in your project.
+- Open the api_keys.json file.
 - Replace the empty value for "abuseipdb" with your AbuseIPDB API key, for example:
 
 ```json
