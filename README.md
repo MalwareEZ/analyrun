@@ -41,6 +41,7 @@ Example structure of **api_keys.json**:
 
 3. Navigate to the API section:
 - In your profile, look for the tab or link named "API Key" in the menu.
+
 ![api_key_virustotal](api_key_virustotal.png)
 
 
