@@ -42,14 +42,14 @@ Example structure of **api_keys.json**:
 3. **Navigate to the API section**:
 - In your profile, look for the tab or link named "API Key" in the menu.
 
-![api_key_virustotal](api_key_virustotal.png)
+![api_key_virustotal](image/api_key_virustotal.png)
 
 
 4. **Generate an API key**:
 - If you haven't generated an API key yet, follow the instructions to generate one.
 - Copy the generated API key and keep it securely.
 
-![api_key_virustotal](api_key_copy.png)
+![api_key_virustotal](image/api_key_copy.png)
 
 5. **Add your API key to api_keys.json**:
 - Open the api_keys.json file.
@@ -74,7 +74,7 @@ Example structure of **api_keys.json**:
 - If you haven't generated an API key yet, follow the instructions to generate one.
 - Copy the generated API key and keep it securely.
 
-![api_key_virustotal](api_key_abuseipdb.png)
+![api_key_virustotal](image/api_key_abuseipdb.png)
 
 4. **Add your API key to api_keys.json**:
 - Open the api_keys.json file.
