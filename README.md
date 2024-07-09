@@ -87,30 +87,55 @@ Example structure of **api_keys.json**:
 }
 ```
 
-# Usage
+# Usage Unix/Linux
 - **Analyze a single IP with VirusTotal**
 ```sh
-python main.py virustotal -t <ip_address>
+python3 main.py virustotal -t <ip_address>
 ```
 
 - **Analyze a single IP with AbuseIPDB**
 ```sh
-python main.py abuseipdb -t <ip_address>
+python3 main.py abuseipdb -t <ip_address>
 ```
 
 - **Analyze a file of IPs with VirusTotal**
 ```sh
-python main.py virustotal -f path_to_your_file.txt
+python3 main.py virustotal -f path_to_your_file.txt
 ```
 
 - **Analyze a file of IPs with AbuseIPDB**
 ```sh
-python main.py abuseipdb -f path_to_your_file.txt
+python3 main.py abuseipdb -f path_to_your_file.txt
 ```
 
 - **Analyze with both services**
 ```sh
-python main.py all -f path_to_your_file.txt
+python3 main.py all -f path_to_your_file.txt
+```
+
+# Usage Windows
+```sh
+python.exe main.py virustotal -t <ip_address>
+```
+
+- **Analyze a single IP with AbuseIPDB**
+```sh
+python.exe main.py abuseipdb -t <ip_address>
+```
+
+- **Analyze a file of IPs with VirusTotal**
+```sh
+python.exe main.py virustotal -f path_to_your_file.txt
+```
+
+- **Analyze a file of IPs with AbuseIPDB**
+```sh
+python.exe main.py abuseipdb -f path_to_your_file.txt
+```
+
+- **Analyze with both services**
+```sh
+python.exe main.py all -f path_to_your_file.txt
 ```
 
 # Saving Results
