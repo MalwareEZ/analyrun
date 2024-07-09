@@ -74,11 +74,11 @@ Example structure of **api_keys.json**:
 - If you haven't generated an API key yet, follow the instructions to generate one.
 - Copy the generated API key and keep it securely.
 
+![api_key_virustotal](api_key_abuseipdb.png)
+
 4. **Add your API key to api_keys.json**:
 - Open the api_keys.json file in your project.
 - Replace the empty value for "abuseipdb" with your AbuseIPDB API key, for example:
-
-![api_key_virustotal](api_key_abuseipdb.png)
 
 ```json
 {
