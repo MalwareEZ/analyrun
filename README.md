@@ -68,7 +68,7 @@ Example structure of **api_keys.json**:
 
 2. **Access the API section**:
 - Log in to your AbuseIPDB account.
-- Navigate to the "API Key" or "Generate API Key" section in your account settings.
+- Navigate to the "Generate API Key" section in your [account settings](https://www.abuseipdb.com/account/api).
 
 3. **Generate an API key**:
 - If you haven't generated an API key yet, follow the instructions to generate one.
@@ -77,6 +77,8 @@ Example structure of **api_keys.json**:
 4. **Add your API key to api_keys.json**:
 - Open the api_keys.json file in your project.
 - Replace the empty value for "abuseipdb" with your AbuseIPDB API key, for example:
+
+![api_key_virustotal](api_key_abuseipdb.png)
 
 ```json
 {
